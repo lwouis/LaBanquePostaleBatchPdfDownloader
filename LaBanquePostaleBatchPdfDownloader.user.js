@@ -3,7 +3,8 @@
 // @namespace    com.lwouis
 // @version      1.0
 // @description  Once manually logged on LBP's website, the script will show a button to download all PDFs related to operations on your account. The button will be located in "Consulter vos e-relevés" > "Historique de mes relevés". The script does what's already possible through the UI, but downloads everything with one click instead of manual labor.
-// @author       Louis Pontoise
+// @updateURL    https://github.com/lwouis/LaBanquePostaleBatchPdfDownloader/raw/master/LaBanquePostaleBatchPdfDownloader.user.js
+// @downloadURL  https://github.com/lwouis/LaBanquePostaleBatchPdfDownloader/raw/master/LaBanquePostaleBatchPdfDownloader.user.js
 // @match        https://voscomptesenligne.labanquepostale.fr/voscomptes/canalXHTML/relevePdf/relevePdf_historique/reinitialiser-historiqueRelevesPDF.ea
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
