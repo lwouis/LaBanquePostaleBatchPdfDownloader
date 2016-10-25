@@ -3,6 +3,8 @@
 This is a userscript which allows you to batch download all your PDF bank statements from [LaBanquePostale website](https://www.labanquepostale.fr/)
 with the click of a button.
 
+![Screenshot of LaBanquePostaleBatchPdfDownloader](docs/screenshot_1.png)
+
 # How to install
 
 * If you don't already have it, install [Tampermonkey](https://tampermonkey.net/)
