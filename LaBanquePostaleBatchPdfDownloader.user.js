@@ -61,6 +61,7 @@
                 var form = document.createElement("form");
                 form.action = "https://voscomptesenligne.labanquepostale.fr/voscomptes/canalXHTML/relevePdf/relevePdf_historique/telechargerPDF-historiqueRelevesPDF.ea";
                 form.target = "_blank";
+                document.body.appendChild(form);
                 form.submit();
                 window.setTimeout(function () {
                     if (i + 1 < matches.length) {
